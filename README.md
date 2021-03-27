@@ -39,4 +39,4 @@ Here are some ideas to get you started:
 [![Linkedin](https://i.stack.imgur.com/gVE0j.png) alexandrerays](https://www.linkedin.com/in/alexandrerays/)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 [<img src="https://emojis.slackmojis.com/emojis/images/1450733056/231/twitter.png?1450733056" width="15"/> @alexandrerays](https://twitter.com/alexandrerays)
 
-## My Hackerrank page can be found [here](https://www.hackerrank.com/alexandrerays) &nbsp;&nbsp <img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fupload.wikimedia.org%2Fwikipedia%2Fcommons%2F4%2F40%2FHackerRank_Icon-1000px.png&f=1&nofb=1" width="15">
+## My Hackerrank page can be found [here](https://www.hackerrank.com/alexandrerays) &nbsp;&nbsp <img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fupload.wikimedia.org%2Fwikipedia%2Fcommons%2F4%2F40%2FHackerRank_Icon-1000px.png&f=1&nofb=1" width="150">
