@@ -44,7 +44,7 @@ Here are some ideas to get you started:
 
 ### 1. Bike Sharing Demand
 
-This project was my capstone of the Machine Learning Engineer nanodegree course. The main idea is to forecast use of a city bikeshare system. The initial proposal can be found [here](https://github.com/alexandrerays/machine-learning-engineer-nanodegree/blob/master/capstone_proposal/proposal.pdf) and the project repository can be found [here](https://github.com/alexandrerays/machine-learning-engineer-nanodegree/tree/master/capstone)
+This project was my capstone of the Machine Learning Engineer nanodegree course. The main idea was to forecast use of a city bikeshare system. The initial proposal can be found [here](https://github.com/alexandrerays/machine-learning-engineer-nanodegree/blob/master/capstone_proposal/proposal.pdf) and the project repository can be found [here](https://github.com/alexandrerays/machine-learning-engineer-nanodegree/tree/master/capstone).
 
 
 ## My HackerRank's page can be found [here](https://www.hackerrank.com/alexandrerays)
