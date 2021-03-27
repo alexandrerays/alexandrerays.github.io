@@ -33,7 +33,7 @@ Here are some ideas to get you started:
 ## What kind of projects you will find here:
 
 
-## My Hackerrank page can be found [here](https://www.hackerrank.com/alexandrerays)
+## My HackerRank's page can be found [here](https://www.hackerrank.com/alexandrerays)
 
 Sometimes, I solve some HackerRank problems and organize my solutions in [this repository](https://github.com/alexandrerays/hackerrank). The puzzles that I did the most were **Problem Solving** (4 Stars <img src="https://cdn.pixabay.com/photo/2013/07/13/11/42/star-158502_960_720.png" width="15"/><img src="https://cdn.pixabay.com/photo/2013/07/13/11/42/star-158502_960_720.png" width="15"/><img src="https://cdn.pixabay.com/photo/2013/07/13/11/42/star-158502_960_720.png" width="15"/><img src="https://cdn.pixabay.com/photo/2013/07/13/11/42/star-158502_960_720.png" width="15"/>) and **Python** (3 Stars <img src="https://cdn.pixabay.com/photo/2013/07/13/11/42/star-158502_960_720.png" width="15"/><img src="https://cdn.pixabay.com/photo/2013/07/13/11/42/star-158502_960_720.png" width="15"/><img src="https://cdn.pixabay.com/photo/2013/07/13/11/42/star-158502_960_720.png" width="15"/>)
 
