@@ -40,7 +40,7 @@ Here are some ideas to get you started:
 | 5 | TDC São Paulo                                         | July 2018     | [Trends in the use of artificial intelligence in autonomous vehicles](https://www.slideshare.net/AlexandreRay1/tendncias-do-uso-da-inteligncia-artificial-em-veculos-autnomos)                          |
 | 6 | TDC São Paulo                                         | July 2017     | [Fintechs: technology and inovation in financial services](https://www.slideshare.net/AlexandreRay1/fintechs-tecnologia-e-inovao-em-servios-financeiros)                                                    |
 
-## Data Science Portfolio:
+## Data Science Projects:
 
 ### 1. Bike Sharing Demand
 
