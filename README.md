@@ -32,15 +32,14 @@ Here are some ideas to get you started:
 
 ## What kind of projects you will find here:
 
+
+## My Hackerrank page can be found [here](https://www.hackerrank.com/alexandrerays)
+
+Sometimes, I solve some HackerRank problems and organize my solutions in [this repository](https://github.com/alexandrerays/hackerrank). The puzzles I that I did the most were **Problem Solving** (4 Stars <img src="https://cdn.pixabay.com/photo/2013/07/13/11/42/star-158502_960_720.png" width="15"/><img src="https://cdn.pixabay.com/photo/2013/07/13/11/42/star-158502_960_720.png" width="15"/><img src="https://cdn.pixabay.com/photo/2013/07/13/11/42/star-158502_960_720.png" width="15"/><img src="https://cdn.pixabay.com/photo/2013/07/13/11/42/star-158502_960_720.png" width="15"/>) and **Python** (3 Stars <img src="https://cdn.pixabay.com/photo/2013/07/13/11/42/star-158502_960_720.png" width="15"/><img src="https://cdn.pixabay.com/photo/2013/07/13/11/42/star-158502_960_720.png" width="15"/><img src="https://cdn.pixabay.com/photo/2013/07/13/11/42/star-158502_960_720.png" width="15"/>)
+
 ## My Social Links:
 
 [<img src="https://github.com/Medium/medium-logos/blob/master/03_Symbol/01_Black/SVG/Medium_Symbol_NoPadding.svg" width="15"/> alexandrerays](https://alexandrerays.medium.com/)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 [<img src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/189_Kaggle_logo_logos-512.png" width="15"/> alexandrerays](https://www.kaggle.com/alexandrerays)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 [![Linkedin](https://i.stack.imgur.com/gVE0j.png) alexandrerays](https://www.linkedin.com/in/alexandrerays/)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 [<img src="https://emojis.slackmojis.com/emojis/images/1450733056/231/twitter.png?1450733056" width="15"/> @alexandrerays](https://twitter.com/alexandrerays)
-
-## My Hackerrank page can be found [here](https://www.hackerrank.com/alexandrerays)
-
-Sometimes, I solve some HackerRank problems and organize my solutions in [this repository](https://github.com/alexandrerays/hackerrank). The puzzles I that I did the most were **Problem Solving** (4 Stars <img src="https://cdn.pixabay.com/photo/2013/07/13/11/42/star-158502_960_720.png" width="15"/><img src="https://cdn.pixabay.com/photo/2013/07/13/11/42/star-158502_960_720.png" width="15"/><img src="https://cdn.pixabay.com/photo/2013/07/13/11/42/star-158502_960_720.png" width="15"/><img src="https://cdn.pixabay.com/photo/2013/07/13/11/42/star-158502_960_720.png" width="15"/>) and **Python** (3 Stars <img src="https://cdn.pixabay.com/photo/2013/07/13/11/42/star-158502_960_720.png" width="15"/><img src="https://cdn.pixabay.com/photo/2013/07/13/11/42/star-158502_960_720.png" width="15"/><img src="https://cdn.pixabay.com/photo/2013/07/13/11/42/star-158502_960_720.png" width="15"/>)
-
-
