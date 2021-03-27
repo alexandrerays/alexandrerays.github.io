@@ -17,6 +17,16 @@ Here are some ideas to get you started:
 
 - I'm currently Data Scientist at @Creditas. I'm also responsable for planning, research, writing and producing technical content for data analysis classes of a business school.
 
+
+<!--
+## My Scientific Publications
+
+* Paper 1
+
+* Paper 2
+-->
+
+
 ## What I've been speaking:
 
 ### The Developer's Conference ([My speaker's page](https://thedevconf.com/palestrante/alexandre-ray-da-silva))
