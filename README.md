@@ -32,5 +32,11 @@ Here are some ideas to get you started:
 
 ## What kind of projects you will find here:
 
+### Contacts:
+
+[<img src="https://github.com/Medium/medium-logos/blob/master/03_Symbol/01_Black/SVG/Medium_Symbol_NoPadding.svg" width="15"/> alexandrerays](https://alexandrerays.medium.com/)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+[<img src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/189_Kaggle_logo_logos-512.png" width="15"/> alexandrerays](https://www.kaggle.com/alexandrerays)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+[![Linkedin](https://i.stack.imgur.com/gVE0j.png) alexandrerays](https://www.linkedin.com/in/alexandrerays/)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+[<img src="https://emojis.slackmojis.com/emojis/images/1450733056/231/twitter.png?1450733056" width="15"/> @alexandrerays](https://twitter.com/alexandrerays)
 
 
