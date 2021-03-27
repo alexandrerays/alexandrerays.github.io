@@ -1,4 +1,4 @@
-### Hi there 👋
+## Hi there 👋
 
 <!--
 **alexandrerays/alexandrerays** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 - I'm currently data scientist at @Creditas. I'm also responsable for planning, research, writing and producing technical content for data analysis classes of a business school.
 
-## Where I've been speaking:
+## What I've been speaking:
 
 ### The Developer's Conference ([My speaker's page](https://thedevconf.com/palestrante/alexandre-ray-da-silva))
 
