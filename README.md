@@ -40,7 +40,11 @@ Here are some ideas to get you started:
 | 5 | TDC São Paulo                                         | July 2018     | [Trends in the use of artificial intelligence in autonomous vehicles](https://www.slideshare.net/AlexandreRay1/tendncias-do-uso-da-inteligncia-artificial-em-veculos-autnomos)                          |
 | 6 | TDC São Paulo                                         | July 2017     | [Fintechs: technology and inovation in financial services](https://www.slideshare.net/AlexandreRay1/fintechs-tecnologia-e-inovao-em-servios-financeiros)                                                    |
 
-## What kind of projects you will find here:
+## Data Science Portfolio:
+
+### 1. Bike Sharing Demand - Forecast use of a city bikeshare system
+
+This project was my capstone of the Machine Learning Engineer nanodegree course. The initial proposal can be found [here](https://github.com/alexandrerays/machine-learning-engineer-nanodegree/blob/master/capstone_proposal/proposal.pdf) and the project repository can be found [here](https://github.com/alexandrerays/machine-learning-engineer-nanodegree/tree/master/capstone)
 
 
 ## My HackerRank's page can be found [here](https://www.hackerrank.com/alexandrerays)
