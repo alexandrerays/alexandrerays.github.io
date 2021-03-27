@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- I'm currently data scientist at @Creditas. I'm also responsable for planning, research, writing and producing technical content for data analysis classes of a business school.
+- I'm currently Data Scientist at @Creditas. I'm also responsable for planning, research, writing and producing technical content for data analysis classes of a business school.
 
 ## What I've been speaking:
 
