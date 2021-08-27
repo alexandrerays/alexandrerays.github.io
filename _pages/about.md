@@ -1,8 +1,3 @@
----
-permalink: /about/
-title: "About"
----
-
 ## Hi there 👋
 
 <!--
