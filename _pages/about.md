@@ -1,3 +1,8 @@
+---
+permalink: /_pages/about/
+title: "About"
+---
+
 ## Hi there 👋
 
 <!--
