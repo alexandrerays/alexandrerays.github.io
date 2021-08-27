@@ -1,5 +1,5 @@
 ---
-permalink: /_pages/about/
+permalink: /
 
 defaults:
   # _pages
