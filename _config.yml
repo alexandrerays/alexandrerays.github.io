@@ -110,9 +110,9 @@ author:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
       # url: "mailto:your.name@email.com"
-    - label: "Website"
-      icon: "fas fa-fw fa-link"
-      # url: "https://your-website.com"
+    - label: "Kaggle"
+      icon: "fas fa-fw fa-link" 
+      url: "https://www.kaggle.com/alexandrerays"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
       url: "https://twitter.com/alexandrerays"
@@ -285,7 +285,7 @@ defaults:
     values:
       layout: single
       author_profile: true
-      read_time: true
+      read_time: false
       comments: # true
-      share: true
+      share: false
       related: true
