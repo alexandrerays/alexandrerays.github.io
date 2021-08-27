@@ -1,11 +1,7 @@
 # main links
 main:
   - title: "About"
-    url: /docs/_pages/ray
-  - title: "CV"
-    url: /docs/_pages/about
-  - title: "Sample Posts"
-    url: /docs/_pages/home
+    url: /_pages/about
   # - title: "Sample Collections"
   #   url: /collection-archive/
   # - title: "Sitemap"
