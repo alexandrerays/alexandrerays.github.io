@@ -289,3 +289,6 @@ defaults:
       comments: # true
       share: true
       related: true
+
+_pages/about:
+  permalink: /about/
