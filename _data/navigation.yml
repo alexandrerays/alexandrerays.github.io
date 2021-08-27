@@ -1,7 +1,7 @@
 # main links
 main:
   - title: "About"
-    url: /_pages/about
+    url: https://alexandrerays.github.io/_pages/about/
   # - title: "Sample Collections"
   #   url: /collection-archive/
   # - title: "Sitemap"
