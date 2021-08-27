@@ -29,25 +29,12 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- I'm currently Data Scientist at @Creditas. I'm also responsable for planning, research, writing and producing technical content for data analysis classes of a business school.
+I'm currently Data Scientist at @Creditas where I’m helping the business building and deploying ML solutions. I'm also responsable for planning, research, writing and producing technical content for data analysis classes of a business school (Escola Conquer).
 
-## Connect with me on these platforms:
+The best way to keep up with me is on [LinkedIn](https://www.linkedin.com/in/alexandrerays/).
 
-<!--
-<a href="https://www.youtube.com/alexandrerays"><img src="https://res.cloudinary.com/importdata/image/upload/v1595012354/yt_logo_jjgys4.png" alt="drawing" width="100"/>&nbsp;&nbsp;&nbsp;&nbsp;
--->
-  <a href="https://medium.com/@alexandrerays"><img src="https://res.cloudinary.com/importdata/image/upload/v1595012354/medium_mono_hoz0z5.png" alt="drawing" width="35"/>&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://twitter.com/alexandrerays"><img src="https://res.cloudinary.com/importdata/image/upload/v1595012924/Twitter_Logo_Blue_gbtagu.png" alt="drawing" width="40"/>&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://www.linkedin.com/in/alexandrerays/"><img src="https://res.cloudinary.com/importdata/image/upload/v1595012354/linkedin_t9qiwy.png" alt="drawing" width="100"/> &nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://www.kaggle.com/alexandrerays"><img src="https://res.cloudinary.com/importdata/image/upload/v1595012924/kaggle_ksaktb.png" alt="drawing" width="75"/> &nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://www.hackerrank.com/alexandrerays"><img src="https://www.hackerrank.com/wp-content/uploads/2018/08/hackerrank_logo.png" alt="drawing" width="130"/>
+I'm masters student from the [University of São Paulo](https://www.poli.usp.br/). My research area is on Safety-Critical Systems.
 
-<!--
-[<img src="https://github.com/Medium/medium-logos/blob/master/03_Symbol/01_Black/SVG/Medium_Symbol_NoPadding.svg" width="15"/> alexandrerays](https://alexandrerays.medium.com/)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-[<img src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/189_Kaggle_logo_logos-512.png" width="15"/> alexandrerays](https://www.kaggle.com/alexandrerays)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-[![Linkedin](https://i.stack.imgur.com/gVE0j.png) alexandrerays](https://www.linkedin.com/in/alexandrerays/)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-[<img src="https://emojis.slackmojis.com/emojis/images/1450733056/231/twitter.png?1450733056" width="15"/> @alexandrerays](https://twitter.com/alexandrerays)
--->
 
 <!--
 ## My Scientific Publications
@@ -78,7 +65,7 @@ Here are some ideas to get you started:
 This project was my capstone of the Machine Learning Engineer nanodegree course. The main idea was to forecast use of a city bikeshare system. The initial proposal can be found [here](https://github.com/alexandrerays/machine-learning-engineer-nanodegree/blob/master/capstone_proposal/proposal.pdf) and the project repository can be found [here](https://github.com/alexandrerays/machine-learning-engineer-nanodegree/tree/master/capstone).
 
 
-## My HackerRank's page can be found [here](https://www.hackerrank.com/alexandrerays)
+## My HackerRank's page [here](https://www.hackerrank.com/alexandrerays)
 
 Sometimes, I solve some HackerRank problems and organize my solutions in [this repository](https://github.com/alexandrerays/hackerrank). The puzzles that I did the most were **Problem Solving** (4 Stars <img src="https://cdn.pixabay.com/photo/2013/07/13/11/42/star-158502_960_720.png" width="15"/><img src="https://cdn.pixabay.com/photo/2013/07/13/11/42/star-158502_960_720.png" width="15"/><img src="https://cdn.pixabay.com/photo/2013/07/13/11/42/star-158502_960_720.png" width="15"/><img src="https://cdn.pixabay.com/photo/2013/07/13/11/42/star-158502_960_720.png" width="15"/>) and **Python** (3 Stars <img src="https://cdn.pixabay.com/photo/2013/07/13/11/42/star-158502_960_720.png" width="15"/><img src="https://cdn.pixabay.com/photo/2013/07/13/11/42/star-158502_960_720.png" width="15"/><img src="https://cdn.pixabay.com/photo/2013/07/13/11/42/star-158502_960_720.png" width="15"/>)
 
