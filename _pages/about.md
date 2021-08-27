@@ -10,6 +10,8 @@ defaults:
       layout: single
       author_profile: true
 
+title: Hi there 👋
+
 ---
 
 ## Hi there 👋
