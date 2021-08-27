@@ -45,7 +45,7 @@ I'm masters student from the [University of São Paulo](https://www.poli.usp.br/
 -->
 
 
-## What I've been speaking:
+## Talks and presentations:
 
 |   | Event                                                 | Date          | Title                                                                                                                                                                                                       |
 |---|-------------------------------------------------------|---------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
@@ -67,5 +67,5 @@ This project was my capstone of the Machine Learning Engineer nanodegree course.
 
 ## My HackerRank's page [here](https://www.hackerrank.com/alexandrerays)
 
-Once in a while, I solve some HackerRank problems and organize my solutions in [this repository](https://github.com/alexandrerays/hackerrank). The puzzles that I did the most were **Problem Solving** (4 Stars <img src="https://cdn.pixabay.com/photo/2013/07/13/11/42/star-158502_960_720.png" width="15"/><img src="https://cdn.pixabay.com/photo/2013/07/13/11/42/star-158502_960_720.png" width="15"/><img src="https://cdn.pixabay.com/photo/2013/07/13/11/42/star-158502_960_720.png" width="15"/><img src="https://cdn.pixabay.com/photo/2013/07/13/11/42/star-158502_960_720.png" width="15"/>) and **Python** (3 Stars <img src="https://cdn.pixabay.com/photo/2013/07/13/11/42/star-158502_960_720.png" width="15"/><img src="https://cdn.pixabay.com/photo/2013/07/13/11/42/star-158502_960_720.png" width="15"/><img src="https://cdn.pixabay.com/photo/2013/07/13/11/42/star-158502_960_720.png" width="15"/>)
+Once in a while, I solve some HackerRank problems and organize my solutions in [this repository](https://github.com/alexandrerays/hackerrank). It includes puzzles about **Problem Solving** (4 Stars <img src="https://cdn.pixabay.com/photo/2013/07/13/11/42/star-158502_960_720.png" width="15"/><img src="https://cdn.pixabay.com/photo/2013/07/13/11/42/star-158502_960_720.png" width="15"/><img src="https://cdn.pixabay.com/photo/2013/07/13/11/42/star-158502_960_720.png" width="15"/><img src="https://cdn.pixabay.com/photo/2013/07/13/11/42/star-158502_960_720.png" width="15"/>) and **Python** (3 Stars <img src="https://cdn.pixabay.com/photo/2013/07/13/11/42/star-158502_960_720.png" width="15"/><img src="https://cdn.pixabay.com/photo/2013/07/13/11/42/star-158502_960_720.png" width="15"/><img src="https://cdn.pixabay.com/photo/2013/07/13/11/42/star-158502_960_720.png" width="15"/>)
 
