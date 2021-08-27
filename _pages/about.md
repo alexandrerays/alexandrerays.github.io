@@ -29,7 +29,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I'm currently Data Scientist at @Creditas where I’m helping the business building and deploying ML solutions. I'm also responsable for planning, research, writing and producing technical content for data analysis classes of a business school (Escola Conquer).
+I'm currently Data Scientist at [Creditas](https://www.creditas.com/) where I’m helping the business building and deploying ML solutions. I'm also responsable for planning, research, writing and producing technical content for data analysis classes of a business school ([Escola Conquer](https://escolaconquer.com.br/?utm_source=google&utm_medium=cpc&utm_campaign=2037034556&utm_term=escola%20conquer&utm_content=448786972991&gclid=CjwKCAjw95yJBhAgEiwAmRrutPNcNafNgKd-PaChnzO--qnX_4hLGabmOxxbf4vF4OAl-Emr5HP7cRoCnqYQAvD_BwE)).
 
 The best way to keep up with me is on [LinkedIn](https://www.linkedin.com/in/alexandrerays/).
 
@@ -56,7 +56,7 @@ I'm masters student from the [University of São Paulo](https://www.poli.usp.br/
 | 5 | TDC São Paulo                                         | July 2018     | [Trends in the use of artificial intelligence in autonomous vehicles](https://www.slideshare.net/AlexandreRay1/tendncias-do-uso-da-inteligncia-artificial-em-veculos-autnomos)                          |
 | 6 | TDC São Paulo                                         | July 2017     | [Fintechs: technology and inovation in financial services](https://www.slideshare.net/AlexandreRay1/fintechs-tecnologia-e-inovao-em-servios-financeiros)                                                    |
 
-My page on "The Developer's Conference" event: ([here](https://thedevconf.com/palestrante/alexandre-ray-da-silva))
+My page on "The Developer's Conference" event: [here](https://thedevconf.com/palestrante/alexandre-ray-da-silva)
 
 ## Data Science Projects:
 
