@@ -82,7 +82,7 @@ Presentation [here](https://www.slideshare.net/AlexandreRay1/como-fazer-controle
 ### Market with Data
 *August, 2019 - Feira Mercado 2019 - Feira de Recrutamento e Seleção USP*
 
-Descrição: Nesta palestra, falei para estudantes sobre a carreira nas áreas de dados: Data Scienta, Data Engineer, Analytics.
+Descrição: Nesta palestra falei para estudantes sobre a carreira nas áreas de dados: Data Scienta, Data Engineer, Analytics.
 
 ### Trends in the use of artificial intelligence in autonomous vehicles
 *July, 2018 - The Developer's Conference São Paulo - Language: portuguese*
