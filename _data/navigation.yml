@@ -4,6 +4,8 @@ main:
     url: /_pages/talks_presentations/
   - title: "Publications"
     url: /_pages/publishing/
+  - title: "Links & Resources"
+    url: /_pages/resources/
   - title: "About"
     url: /
   # - title: "Sitemap"
