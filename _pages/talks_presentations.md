@@ -1,15 +1,13 @@
 ---
 permalink: /_pages/talks_presentations/
 
-layout: archive
-
 defaults:
   # _pages
   - scope:
       path: ""
       type: pages
     values:
-      layout: single
+      layout: archive
       author_profile: true
 
 gallery:
