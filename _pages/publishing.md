@@ -1,5 +1,5 @@
 ---
-permalink: /_pages/talks_presentations/
+permalink: /_pages/publishing/
 
 title: Publications
 
