@@ -17,8 +17,8 @@ gallery:
     title: "July, 2017 - The Developer's Conference São Paulo"
   - url: /assets/images/IMG_20191128_003704_186.jpg
     image_path: /assets/images/IMG_20191128_003704_186.jpg
-    alt: "placeholder image 2"
-    title: "Image 2 title caption"
+    alt: "November, 2019 - The Developer's Conference Porto Alegre"
+    title: "November, 2019 - The Developer's Conference Porto Alegre"
   - url: /assets/images/MVIMG_20180717_175045556.jpg
     image_path: /assets/images/MVIMG_20180717_175045556.jpg
     alt: "July, 2018 - The Developer's Conference São Paulo"
@@ -43,6 +43,10 @@ gallery:
     image_path: /assets/images/20181122_160922.jpg
     alt: "November, 2018 - VII Workshop de Pós-Graduação - POLI-USP"
     title: "November, 2018 - VII Workshop de Pós-Graduação - POLI-USP"
+  - url: /assets/images/IMG-20201203-WA0004.jpg
+    image_path: /assets/images/IMG-20201203-WA0004.jpg
+    alt: "December, 2020 - The Developer's Conference Porto Alegre"
+    title: "December, 2020 - The Developer's Conference Porto Alegre"
 
 title: Talks & Presentations
 
@@ -94,7 +98,6 @@ Description: A era digital e da conectividade têm transformado profundamente a 
 
 Presentation [here](https://www.slideshare.net/AlexandreRay1/fintechs-tecnologia-e-inovao-em-servios-financeiros).
 
-<br>
 ---
 My page on "The Developer's Conference" event: [here](https://thedevconf.com/palestrante/alexandre-ray-da-silva)
 
