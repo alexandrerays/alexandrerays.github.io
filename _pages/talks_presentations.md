@@ -13,20 +13,42 @@ defaults:
 gallery:
   - url: /assets/images/Foto_2021-01-07_163547.jpg
     image_path: /assets/images/Foto_2021-01-07_163547.jpg
-    alt: "placeholder image 1"
-    title: "Image 1 title caption"
+    alt: "July, 2017 - The Developer's Conference São Paulo"
+    title: "July, 2017 - The Developer's Conference São Paulo"
   - url: /assets/images/IMG_20191128_003704_186.jpg
     image_path: /assets/images/IMG_20191128_003704_186.jpg
     alt: "placeholder image 2"
     title: "Image 2 title caption"
+  - url: /assets/images/MVIMG_20180717_175045556.jpg
+    image_path: /assets/images/MVIMG_20180717_175045556.jpg
+    alt: "July, 2018 - The Developer's Conference São Paulo"
+    title: "July, 2018 - The Developer's Conference São Paulo"
+  - url: /assets/images/20191127_162823.jpg
+    image_path: /assets/images/20191127_162823.jpg
+    alt: "November, 2019 - The Developer's Conference Porto Alegre"
+    title: "November, 2019 - The Developer's Conference Porto Alegre"
+  - url: /assets/images/IMG_20191128_153243148.jpg
+    image_path: /assets/images/IMG_20191128_153243148.jpg
+    alt: "November, 2019 - The Developer's Conference Porto Alegre"
+    title: "November, 2019 - The Developer's Conference Porto Alegre"
+  - url: /assets/images/IMG_20191128_153252998.jpg
+    image_path: /assets/images/IMG_20191128_153252998.jpg
+    alt: "November, 2019 - The Developer's Conference Porto Alegre"
+    title: "November, 2019 - The Developer's Conference Porto Alegre"
+  - url: /assets/images/IMG-20191211-WA0000.jpg
+    image_path: /assets/images/IMG-20191211-WA0000.jpg
+    alt: "November, 2019 - The Developer's Conference Porto Alegre"
+    title: "November, 2019 - The Developer's Conference Porto Alegre"
+  - url: /assets/images/20181122_160922.jpg
+    image_path: /assets/images/20181122_160922.jpg
+    alt: "November, 2018 - VII Workshop de Pós-Graduação - POLI-USP"
+    title: "November, 2018 - VII Workshop de Pós-Graduação - POLI-USP"
 
 title: Talks & Presentations
 
 ---
 
-![pic](../assets/images/events_participation.jpg)
-
-{% include gallery caption="This is a sample gallery with **Markdown support**." %}
+{% include gallery caption="Past Talks & Presentations" %}
 
 
 ### Demystifying CNNs with Grad-CAM
