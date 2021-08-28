@@ -1,5 +1,5 @@
 ---
-permalink: /_pages/resourses/
+permalink: /_pages/resources/
 
 title: Resourses
 
