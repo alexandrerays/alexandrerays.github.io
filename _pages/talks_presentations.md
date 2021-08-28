@@ -79,10 +79,10 @@ Descrição: Você já criou tantos datasets e tantos modelos que já não sabe 
 
 Presentation [here](https://www.slideshare.net/AlexandreRay1/como-fazer-controle-de-verses-de-dados-e-modelos-de-machine-learning-usando-o-dvc).
 
-### Market with Data
-*August, 2019 - Feira Mercado 2019 - Feira de Recrutamento e Seleção USP*
+### Market & Data
+*August, 2019 - Feira Mercado 2019 - Feira de Recrutamento e Seleção USP - Language: portuguese*
 
-Descrição: Nesta palestra falei para estudantes sobre a carreira nas áreas de dados: Data Science, Data Engineer, Analytics.
+Descrição: Nesta palestra falei para estudantes sobre carreira e as principais oportunidades de trabalho nas áreas de dados: Data Science, Data Engineer, Analytics e Modelagem de Crédito.
 
 ### Trends in the use of artificial intelligence in autonomous vehicles
 *July, 2018 - The Developer's Conference São Paulo - Language: portuguese*
