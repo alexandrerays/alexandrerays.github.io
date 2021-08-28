@@ -101,3 +101,6 @@ Presentation [here](https://www.slideshare.net/AlexandreRay1/fintechs-tecnologia
 ---
 My page on "The Developer's Conference" event: [here](https://thedevconf.com/palestrante/alexandre-ray-da-silva)
 
+{% for post in site.pages %}
+{% include archive-single.html %}
+{% endfor %}
