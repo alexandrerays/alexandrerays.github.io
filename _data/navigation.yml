@@ -1,8 +1,10 @@
 # main links
 main:
-  - title: "About"
-    url: /
   - title: "Talks & Presentations"
     url: /_pages/talks_presentations/
+  - title: "Publications"
+    url: /_pages/publishing/
+  - title: "About"
+    url: /
   # - title: "Sitemap"
   #   url: /sitemap/
