@@ -1,7 +1,7 @@
 ---
 permalink: /_pages/resources/
 
-title: Projects & Resourses
+title: Projects & Resources
 
 toc: true
 
@@ -10,7 +10,7 @@ toc: true
 ***obs:** I have more than 15+ data science projects in my portfolio delivering business value to private companies. However, 
 due to NDA clauses, projects related to work experience will not have details (code) available.*
 
-The following resourses are open:
+The following resources are open:
 
 ### CPU vs GPU using Google Colab applied to image recognition
 *Youtube video - published in 2019 - Language: portuguese*
