@@ -47,6 +47,14 @@ gallery:
     image_path: /assets/images/IMG-20201203-WA0004.jpg
     alt: "December, 2020 - The Developer's Conference Porto Alegre"
     title: "December, 2020 - The Developer's Conference Porto Alegre"
+  - url: /assets/images/rdhostel.png
+    image_path: /assets/images/rdhostel.png
+    alt: "October, 2021 - RDHostel"
+    title: "October, 2021 - RDHostel"
+  - url: /assets/images/rdhostel2.jpg
+      image_path: /assets/images/rdhostel2.jpg
+      alt: "October, 2021 - RDHostel"
+      title: "October, 2021 - RDHostel"
 
 title: Talks & Presentations
 
@@ -55,6 +63,13 @@ toc: true
 ---
 
 {% include gallery caption="Past Talks & Presentations" %}
+
+### Análise de Dados e como ela pode ajudar a alavancar o crescimento do seu negócio
+*October, 2021 - RDHostel - Language: portuguese*
+
+Descrição: Neste painel, nós explicamos como a tomada de decisões ocorre nas empresas, explicamos os tipos de análises de dados, qual é o nosso papel dentro das organizações, que tipo de problemas podem ser resolvidos usando análise de dados.
+
+Link do painel: [Aqui](https://rdhostel.com/play/como-analise-de-dados-pode-alavancar-os-resultados-da-sua-empresa/).
 
 
 ### Demystifying CNNs with Grad-CAM
