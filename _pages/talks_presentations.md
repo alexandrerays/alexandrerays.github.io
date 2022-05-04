@@ -52,9 +52,9 @@ gallery:
     alt: "October, 2021 - RDHostel"
     title: "October, 2021 - RDHostel"
   - url: /assets/images/rdhostel2.jpg
-      image_path: /assets/images/rdhostel2.jpg
-      alt: "October, 2021 - RDHostel"
-      title: "October, 2021 - RDHostel"
+    image_path: /assets/images/rdhostel2.jpg
+    alt: "October, 2021 - RDHostel"
+    title: "October, 2021 - RDHostel"
 
 title: Talks & Presentations
 
@@ -70,7 +70,6 @@ toc: true
 Descrição: Neste painel, nós explicamos como a tomada de decisões ocorre nas empresas, explicamos os tipos de análises de dados, qual é o nosso papel dentro das organizações, que tipo de problemas podem ser resolvidos usando análise de dados.
 
 Link do painel: [Aqui](https://rdhostel.com/play/como-analise-de-dados-pode-alavancar-os-resultados-da-sua-empresa/).
-
 
 ### Demystifying CNNs with Grad-CAM
 *December, 2020 - The Developer's Conference Porto Alegre - Language: portuguese*
