@@ -55,6 +55,10 @@ gallery:
     image_path: /assets/images/rdhostel2.jpg
     alt: "October, 2021 - RDHostel"
     title: "October, 2021 - RDHostel"
+  - url: /assets/images/direito.jpg
+    image_path: /assets/images/direito.jpg
+    alt: "November, 2021 - Universidade Presbiteriana Mackenzie"
+    title: "November, 2021 - Universidade Presbiteriana Mackenzie"
 
 title: Talks & Presentations
 
@@ -63,6 +67,13 @@ toc: true
 ---
 
 {% include gallery caption="Past Talks & Presentations" %}
+
+### Mesa Redonda: Os desafios do direito perante os algoritmos preditivos
+*November, 2021 - Universidade Presbiteriana Mackenzie - Language: portuguese*
+
+Descrição: Dei uma introdução para alunos do curso de direito sobre o que é machine learning e alguns desafios que são importantes para esta área. Dentre eles, destacam-se vieses algorítmicos, deep fakes, privacidade dos dados e aplicações.
+
+Presentation: [Aqui](https://pt.slideshare.net/AlexandreRay1/palestra-os-desafios-do-direito-perante-os-algoritmos-preditivos-09102021).
 
 ### Análise de Dados e como ela pode ajudar a alavancar o crescimento do seu negócio
 *October, 2021 - RDHostel - Language: portuguese*
