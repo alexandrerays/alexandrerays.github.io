@@ -29,7 +29,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I'm currently Data Scientist at [Creditas](https://www.creditas.com/) where I’m helping the business building and deploying ML solutions. I'm also responsable for planning, research, writing and producing technical content for data analysis classes at [Escola Conquer](https://escolaconquer.com.br/?utm_source=google&utm_medium=cpc&utm_campaign=2037034556&utm_term=escola%20conquer&utm_content=448786972991&gclid=CjwKCAjw95yJBhAgEiwAmRrutPNcNafNgKd-PaChnzO--qnX_4hLGabmOxxbf4vF4OAl-Emr5HP7cRoCnqYQAvD_BwE).
+I'm currently Data Scientist at [BairesDev](https://www.bairesdev.com/) where I’m helping the business building and deploying ML solutions. I'm also responsable for planning, research, writing and producing technical content for data analysis classes at [Escola Conquer](https://escolaconquer.com.br/?utm_source=google&utm_medium=cpc&utm_campaign=2037034556&utm_term=escola%20conquer&utm_content=448786972991&gclid=CjwKCAjw95yJBhAgEiwAmRrutPNcNafNgKd-PaChnzO--qnX_4hLGabmOxxbf4vF4OAl-Emr5HP7cRoCnqYQAvD_BwE).
 
 The best way to keep up with me is on [LinkedIn](https://www.linkedin.com/in/alexandrerays/). However, other social media links can be found on the left.
 
