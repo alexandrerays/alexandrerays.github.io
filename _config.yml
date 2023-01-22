@@ -34,21 +34,23 @@ color:
 footer:
   copyright: Alexandre Ray
   location: Location
-  social: Around the Web
+  social: Around the Web 2
   credits: Credits
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
-  - title: twitter
-    url: https://twitter.com/alexandrerays
-  - title: facebook
-    url:
-  - title: stack-overflow
-    url: http://stackoverflow.com/questions/tagged/jekyll
-  - title: bitbucket
-    url: http://bitbucket.org/jekyll
+  - title: linkedin
+    url: https://www.linkedin.com/in/alexandrerays/
   - title: github
     url: https://github.com/alexandrerays
+  - title: twitter
+    url: https://twitter.com/alexandrerays
+  - title: medium
+    url: https://medium.com/@alexandrerays
+  - title: youtube
+    url: https://youtube.com/alexandrerays
+
+
 
 # Postal address (add as many lines as necessary)
 address:
