@@ -1,0 +1,13 @@
+---
+layout: default
+title: Socioeconomic aspects versus accessibility to subway stations of the city of São Paulo
+modal-id: 2
+date: 2021-09-01
+img: map.jpg
+alt: image-alt
+project-date: September 2021
+client: Tel Aviv University
+category: Data Analysis
+description: Measuring socioeconomic aspects versus accessibility to subway stations in big cities is important because it can provide insight into how transportation infrastructure and services are impacting different communities. Socioeconomic factors, such as income, education, and occupation, can influence a person's access to transportation and opportunities. By comparing the socioeconomic characteristics of neighborhoods with varying levels of subway station accessibility, it can be determined if certain groups are being disproportionately affected by a lack of transportation options. This information can then be used to inform policy and investment decisions to promote greater equity in transportation access. 
+link: https://github.com/alexandrerays/tau_project
+---

@@ -4,7 +4,7 @@
   <generator uri="https://jekyllrb.com/" version="4.3.2">Jekyll</generator>
   <link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" />
   <link href="http://localhost:4000/" rel="alternate" type="text/html" />
-  <updated>2023-01-22T23:45:27-03:00</updated>
+  <updated>2023-01-23T09:59:27-03:00</updated>
   <id>http://localhost:4000/</id>
 
   
@@ -20,78 +20,10 @@
   
   
     <entry>
-      <title type="html">Bike sharing demand</title>
-      <link href="http://localhost:4000/" rel="alternate" type="text/html" title="Bike sharing demand" />
-      <published>2014-07-18T00:00:00-03:00</published>
-      <updated>2014-07-18T00:00:00-03:00</updated>
-      <id>http://localhost:4000/project-1</id>
-      <content type="html" xml:base="http://localhost:4000/"></content>
-
-      
-      
-      
-      
-      
-
-      <author>
-          <name></name>
-        
-        
-      </author>
-
-      
-        <category term="Data Science" />
-      
-
-      
-
-      
-        <summary type="html"></summary>
-      
-
-      
-      
-    </entry>
-  
-    <entry>
-      <title type="html">Socioeconomic aspects versus accessibility to subway stations of the city of São Paulo</title>
-      <link href="http://localhost:4000/" rel="alternate" type="text/html" title="Socioeconomic aspects versus accessibility to subway stations of the city of São Paulo" />
-      <published>2014-07-17T00:00:00-03:00</published>
-      <updated>2014-07-17T00:00:00-03:00</updated>
-      <id>http://localhost:4000/project-2</id>
-      <content type="html" xml:base="http://localhost:4000/"></content>
-
-      
-      
-      
-      
-      
-
-      <author>
-          <name></name>
-        
-        
-      </author>
-
-      
-        <category term="Data Analysis" />
-      
-
-      
-
-      
-        <summary type="html"></summary>
-      
-
-      
-      
-    </entry>
-  
-    <entry>
-      <title type="html">Object recognition applied to highways</title>
-      <link href="http://localhost:4000/" rel="alternate" type="text/html" title="Object recognition applied to highways" />
-      <published>2014-07-16T00:00:00-03:00</published>
-      <updated>2014-07-16T00:00:00-03:00</updated>
+      <title type="html">Counting vehicles on a highway using object detection techniques</title>
+      <link href="http://localhost:4000/" rel="alternate" type="text/html" title="Counting vehicles on a highway using object detection techniques" />
+      <published>2022-10-01T00:00:00-03:00</published>
+      <updated>2022-10-01T00:00:00-03:00</updated>
       <id>http://localhost:4000/project-3</id>
       <content type="html" xml:base="http://localhost:4000/"></content>
 
@@ -122,11 +54,11 @@
     </entry>
   
     <entry>
-      <title type="html">Project 4</title>
-      <link href="http://localhost:4000/" rel="alternate" type="text/html" title="Project 4" />
-      <published>2014-07-15T00:00:00-03:00</published>
-      <updated>2014-07-15T00:00:00-03:00</updated>
-      <id>http://localhost:4000/project-4</id>
+      <title type="html">Socioeconomic aspects versus accessibility to subway stations of the city of São Paulo</title>
+      <link href="http://localhost:4000/" rel="alternate" type="text/html" title="Socioeconomic aspects versus accessibility to subway stations of the city of São Paulo" />
+      <published>2021-09-01T00:00:00-03:00</published>
+      <updated>2021-09-01T00:00:00-03:00</updated>
+      <id>http://localhost:4000/project-2</id>
       <content type="html" xml:base="http://localhost:4000/"></content>
 
       
@@ -156,11 +88,11 @@
     </entry>
   
     <entry>
-      <title type="html">Project 5</title>
-      <link href="http://localhost:4000/" rel="alternate" type="text/html" title="Project 5" />
-      <published>2014-07-15T00:00:00-03:00</published>
-      <updated>2014-07-15T00:00:00-03:00</updated>
-      <id>http://localhost:4000/project-5</id>
+      <title type="html">Bike sharing demand</title>
+      <link href="http://localhost:4000/" rel="alternate" type="text/html" title="Bike sharing demand" />
+      <published>2019-08-01T00:00:00-03:00</published>
+      <updated>2019-08-01T00:00:00-03:00</updated>
+      <id>http://localhost:4000/project-1</id>
       <content type="html" xml:base="http://localhost:4000/"></content>
 
       
@@ -176,7 +108,41 @@
       </author>
 
       
-        <category term="Web Development" />
+        <category term="Data Science" />
+      
+
+      
+
+      
+        <summary type="html"></summary>
+      
+
+      
+      
+    </entry>
+  
+    <entry>
+      <title type="html">Analyzing brazilian elementary education indicators</title>
+      <link href="http://localhost:4000/" rel="alternate" type="text/html" title="Analyzing brazilian elementary education indicators" />
+      <published>2018-10-01T00:00:00-03:00</published>
+      <updated>2018-10-01T00:00:00-03:00</updated>
+      <id>http://localhost:4000/project-4</id>
+      <content type="html" xml:base="http://localhost:4000/"></content>
+
+      
+      
+      
+      
+      
+
+      <author>
+          <name></name>
+        
+        
+      </author>
+
+      
+        <category term="Data Analysis" />
       
 
       

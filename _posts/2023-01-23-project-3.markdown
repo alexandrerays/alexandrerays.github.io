@@ -1,0 +1,13 @@
+---
+layout: default
+title: Counting vehicles on a highway using object detection techniques
+modal-id: 3
+date: 2022-10-01
+img: cars2.png
+alt: image-alt
+project-date: October 2022
+client: Python Brasil 2022
+category: Data Science - Object Detection
+description: Counting vehicles on a highway is important for several reasons. First, it helps transportation planners and engineers understand traffic flow and identify areas of congestion. This information can be used to optimize traffic signal timings, improve road design, and plan for future infrastructure projects. Additionally, counting vehicles can provide valuable data for traffic forecasting, which can be used to plan for special events or to provide real-time traffic updates to drivers. Additionally, machine learning can be used to analyze large amounts of traffic data, making it possible to detect patterns and trends that would be difficult for humans to identify. This can help transportation officials make more informed decisions about how to manage traffic and improve safety on the roads.
+link: https://medium.com/@alexandrerays/como-criar-uma-aplica%C3%A7%C3%A3o-de-reconhecimento-de-objetos-do-zero-usando-o-yolov7-e-o-streamlit-fb49bc40b356
+---
