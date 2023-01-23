@@ -1,0 +1,13 @@
+---
+layout: default
+modal-id: 5
+title: Evaluate the main factors that lead to late detection of early breast cancer
+date: 2019-10-01
+img: mama_cancer.jpg
+alt: image-alt
+project-date: October 2019
+client: BCG Gamma
+category: Data Analysis
+description: Predicting breast cancer is important for a number of reasons. Breast cancer is often more treatable in its early stages, and the survival rate is higher for those who are diagnosed early. By predicting the likelihood of breast cancer, individuals can be alerted to the need for further screening or diagnostic tests. This project involves predicting breast cancer for 2018 data in Brazil provided by ABRALE and analysing the main factors which contribute for this desease.
+link: https://github.com/alexandrerays/breast_cancer
+---

@@ -4,7 +4,7 @@
   <generator uri="https://jekyllrb.com/" version="4.3.2">Jekyll</generator>
   <link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" />
   <link href="http://localhost:4000/" rel="alternate" type="text/html" />
-  <updated>2023-01-23T09:59:27-03:00</updated>
+  <updated>2023-01-23T10:51:58-03:00</updated>
   <id>http://localhost:4000/</id>
 
   
@@ -88,6 +88,40 @@
     </entry>
   
     <entry>
+      <title type="html">Evaluate the main factors that lead to late detection of early breast cancer</title>
+      <link href="http://localhost:4000/" rel="alternate" type="text/html" title="Evaluate the main factors that lead to late detection of early breast cancer" />
+      <published>2019-10-01T00:00:00-03:00</published>
+      <updated>2019-10-01T00:00:00-03:00</updated>
+      <id>http://localhost:4000/project-5</id>
+      <content type="html" xml:base="http://localhost:4000/"></content>
+
+      
+      
+      
+      
+      
+
+      <author>
+          <name></name>
+        
+        
+      </author>
+
+      
+        <category term="Data Analysis" />
+      
+
+      
+
+      
+        <summary type="html"></summary>
+      
+
+      
+      
+    </entry>
+  
+    <entry>
       <title type="html">Bike sharing demand</title>
       <link href="http://localhost:4000/" rel="alternate" type="text/html" title="Bike sharing demand" />
       <published>2019-08-01T00:00:00-03:00</published>
@@ -109,6 +143,40 @@
 
       
         <category term="Data Science" />
+      
+
+      
+
+      
+        <summary type="html"></summary>
+      
+
+      
+      
+    </entry>
+  
+    <entry>
+      <title type="html">Traffic sign detection</title>
+      <link href="http://localhost:4000/" rel="alternate" type="text/html" title="Traffic sign detection" />
+      <published>2018-11-01T00:00:00-03:00</published>
+      <updated>2018-11-01T00:00:00-03:00</updated>
+      <id>http://localhost:4000/project-6</id>
+      <content type="html" xml:base="http://localhost:4000/"></content>
+
+      
+      
+      
+      
+      
+
+      <author>
+          <name></name>
+        
+        
+      </author>
+
+      
+        <category term="Data Science - Image Recognition" />
       
 
       

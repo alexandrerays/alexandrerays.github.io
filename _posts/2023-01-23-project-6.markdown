@@ -1,0 +1,13 @@
+---
+layout: default
+modal-id: 6
+title: Traffic sign detection
+date: 2018-11-01
+img: sign.jpg
+alt: image-alt
+project-date: November 2019
+client: University of São Paulo
+category: Data Science - Image Recognition
+description: Detecting traffic signs using machine learning is important for a number of reasons. Traffic Safety - Accurately detecting traffic signs is crucial for ensuring the safety of drivers and other road users. Machine learning algorithms can be used to identify traffic signs even under challenging conditions, such as poor lighting or weather conditions. Autonomous vehicles - With the development of autonomous vehicles, the ability to accurately detect traffic signs is becoming increasingly important. Machine learning algorithms can be used to train self-driving cars to recognize and respond to traffic signs in real-time. Enhanced driver assistance - Machine learning algorithms can be used to develop enhanced driver assistance systems that can detect traffic signs and alert drivers to potential hazards or changes in the road ahead. Efficiency - Machine learning algorithms can be used to detect traffic signs in real-time and process the information quickly, which can help to improve traffic flow and reduce congestion. Cost-effective - Machine learning-based systems can be relatively cost-effective compared to other technologies, making them accessible for widespread deployment. Environment-friendly - Machine learning-based systems can help to reduce emissions by optimizing traffic flow and reducing congestion.
+link: https://github.com/alexandrerays/traffic-sign-recognition
+---
