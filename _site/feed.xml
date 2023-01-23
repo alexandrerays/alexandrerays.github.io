@@ -4,7 +4,7 @@
   <generator uri="https://jekyllrb.com/" version="4.3.2">Jekyll</generator>
   <link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" />
   <link href="http://localhost:4000/" rel="alternate" type="text/html" />
-  <updated>2023-01-22T21:50:41-03:00</updated>
+  <updated>2023-01-22T23:45:27-03:00</updated>
   <id>http://localhost:4000/</id>
 
   
@@ -20,8 +20,8 @@
   
   
     <entry>
-      <title type="html">Project 1</title>
-      <link href="http://localhost:4000/" rel="alternate" type="text/html" title="Project 1" />
+      <title type="html">Bike sharing demand</title>
+      <link href="http://localhost:4000/" rel="alternate" type="text/html" title="Bike sharing demand" />
       <published>2014-07-18T00:00:00-03:00</published>
       <updated>2014-07-18T00:00:00-03:00</updated>
       <id>http://localhost:4000/project-1</id>
@@ -40,7 +40,7 @@
       </author>
 
       
-        <category term="Web Development" />
+        <category term="Data Science" />
       
 
       
@@ -54,8 +54,8 @@
     </entry>
   
     <entry>
-      <title type="html">Project 2</title>
-      <link href="http://localhost:4000/" rel="alternate" type="text/html" title="Project 2" />
+      <title type="html">Socioeconomic aspects versus accessibility to subway stations of the city of São Paulo</title>
+      <link href="http://localhost:4000/" rel="alternate" type="text/html" title="Socioeconomic aspects versus accessibility to subway stations of the city of São Paulo" />
       <published>2014-07-17T00:00:00-03:00</published>
       <updated>2014-07-17T00:00:00-03:00</updated>
       <id>http://localhost:4000/project-2</id>
@@ -74,7 +74,7 @@
       </author>
 
       
-        <category term="Web Development" />
+        <category term="Data Analysis" />
       
 
       
@@ -88,8 +88,8 @@
     </entry>
   
     <entry>
-      <title type="html">Project 3</title>
-      <link href="http://localhost:4000/" rel="alternate" type="text/html" title="Project 3" />
+      <title type="html">Object recognition applied to highways</title>
+      <link href="http://localhost:4000/" rel="alternate" type="text/html" title="Object recognition applied to highways" />
       <published>2014-07-16T00:00:00-03:00</published>
       <updated>2014-07-16T00:00:00-03:00</updated>
       <id>http://localhost:4000/project-3</id>
@@ -108,7 +108,7 @@
       </author>
 
       
-        <category term="Web Development" />
+        <category term="Data Science - Object Detection" />
       
 
       
@@ -142,41 +142,7 @@
       </author>
 
       
-        <category term="Web Development" />
-      
-
-      
-
-      
-        <summary type="html"></summary>
-      
-
-      
-      
-    </entry>
-  
-    <entry>
-      <title type="html">Project 6</title>
-      <link href="http://localhost:4000/" rel="alternate" type="text/html" title="Project 6" />
-      <published>2014-07-15T00:00:00-03:00</published>
-      <updated>2014-07-15T00:00:00-03:00</updated>
-      <id>http://localhost:4000/project-6</id>
-      <content type="html" xml:base="http://localhost:4000/"></content>
-
-      
-      
-      
-      
-      
-
-      <author>
-          <name></name>
-        
-        
-      </author>
-
-      
-        <category term="Web Development" />
+        <category term="Data Analysis" />
       
 
       
@@ -192,8 +158,8 @@
     <entry>
       <title type="html">Project 5</title>
       <link href="http://localhost:4000/" rel="alternate" type="text/html" title="Project 5" />
-      <published>2014-07-14T00:00:00-03:00</published>
-      <updated>2014-07-14T00:00:00-03:00</updated>
+      <published>2014-07-15T00:00:00-03:00</published>
+      <updated>2014-07-15T00:00:00-03:00</updated>
       <id>http://localhost:4000/project-5</id>
       <content type="html" xml:base="http://localhost:4000/"></content>
 
