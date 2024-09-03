@@ -43,12 +43,12 @@ social:
     url: https://www.linkedin.com/in/alexandrerays/
   - title: github
     url: https://github.com/alexandrerays
-  - title: twitter
-    url: https://twitter.com/alexandrerays
+  # - title: twitter
+  #   url: https://twitter.com/alexandrerays
   - title: medium
     url: https://medium.com/@alexandrerays
-  - title: youtube
-    url: https://youtube.com/alexandrerays
+  # - title: youtube
+  #   url: https://youtube.com/alexandrerays
 
 
 
