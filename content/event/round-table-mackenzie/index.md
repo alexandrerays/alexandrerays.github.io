@@ -8,7 +8,7 @@ address:
   # street: 450 Serra Mall
 all_day: true
 authors: []
-draft: true
+draft: false
 date: "2021-11-09"
 # date_end: "2030-06-01"
 event: Universidade Presbiteriana Mackenzie

@@ -8,7 +8,7 @@ address:
   # street: 450 Serra Mall
 all_day: true
 authors: []
-draft: true
+draft: false
 # date: "2024-12-03"
 # date_end: "2030-06-01"
 event: The Developers Conference

@@ -8,7 +8,7 @@ address:
   # street: 450 Serra Mall
 all_day: true
 authors: []
-draft: true
+draft: false
 date: "2022-10-31"
 # date_end: "2030-06-01"
 event: Python Brasil
