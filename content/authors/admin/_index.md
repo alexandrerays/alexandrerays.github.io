@@ -39,12 +39,15 @@ social:
 # - icon: orcid
 #   icon_pack: ai
 #   link: http://orcid.org/0000-0002-6892-4643 
-- icon: github
-  icon_pack: fab
-  link: https://github.com/alexandrerays
 - icon: linkedin
   icon_pack: fab
   link: https://www.linkedin.com/in/alexandrerays/
+- icon: github
+  icon_pack: fab
+  link: https://github.com/alexandrerays
+- icon: telegram
+  icon_pack: fab
+  link: https://t.me/alexandrerays
 # - icon: instagram
 #   icon_pack: fab
 #   link: https://www.instagram.com/shilaan01/ 
