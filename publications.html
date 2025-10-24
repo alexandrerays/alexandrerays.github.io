@@ -3,7 +3,7 @@
 <head>
   <meta charset="utf-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1" />
-  <title>Alexandre Ray</title>
+  <title>Writing — Alexandre Ray</title>
   <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;600;700&display=swap" rel="stylesheet">
   <style>
     body {
@@ -63,36 +63,45 @@
       background: #1f2937;
     }
 
-    /* --- Main Content --- */
+    /* --- Main --- */
     .container {
       width: 100%;
       max-width: 720px;
       padding: 20px;
-      text-align: left; /* ensures left alignment for all text after name */
+      text-align: left;
     }
 
     h1 {
       font-size: 2.2rem;
-      margin-bottom: 12px;
-      text-align: center;
       font-weight: 700;
+      margin-bottom: 20px;
+      text-align: center;
     }
 
     p {
       line-height: 1.6;
-      margin: 10px 0;
     }
 
-    /* --- Links Section --- */
-    .links-section {
-      margin-top: 40px;
-      padding-left: 10px;
-    }
-
-    .links-section ul {
+    ul.publications {
       list-style-type: square;
-      padding-left: 20px;
-      margin: 10px 0;
+      padding-left: 25px;
+      line-height: 1.7;
+      margin-top: 20px;
+    }
+
+    ul.publications li {
+      margin-bottom: 18px;
+    }
+
+    ul.publications strong {
+      color: #22d3ee;
+    }
+
+    .source {
+      color: #9ca3af;
+      font-size: 0.95rem;
+      display: block;
+      margin-top: 2px;
     }
 
     /* --- Footer --- */
@@ -133,26 +142,38 @@
   </header>
 
   <main class="container">
-    <h1>Alexandre Ray</h1>
-    <br>
+    <h1>Publications</h1>
 
-    <p>Hello! I’m the Co-Founder &amp; CTO of <a href="https://www.oncoai.com.br" target="_blank">OncoAI</a>.</p>
-    
-    <p>I build AI products that empower businesses through <strong>artificial intelligence</strong> and <strong>entrepreneurship</strong>.</p>
+    <ul class="publications">
+    <li>
+      Jaqueline Alvarenga Silveira, <strong>Alexandre Ray</strong>, Mariana Zuliani Theodoro de Lima (2025). 
+      <em>
+        <a href="https://link.springer.com/article/10.1007/s12672-025-01908-6" target="_blank">
+          Harnessing artificial intelligence for predicting breast cancer recurrence: a systematic review of clinical and imaging data
+        </a>.
+      </em> 
+      In Discover Oncology.
+    </li>
+    <li>
+      Mariana Zuliani Theodoro de Lima, <strong>Alexandre Ray</strong>, Jaqueline Alvarenga Silveira, André Luiz da Silva, João Gabriel Guideli Sena Rios, Jefferson Mazzei, Daniela Gregolin Giannotti (2024). 
+      <em>
+        <a href="https://manuscriptamedica.com.br/revista/index.php/mm/issue/view/12" target="_blank">
+          Development of artificial intelligence applied to predictive analysis of recurrence and personalization of medical treatment for patients with breast and lung carcinoma
+        </a>.
+      </em> 
+      In IX International Symposium on Translational Oncology.
+    </li>
+    <li>
+      <strong>Alexandre Ray</strong>, João Batista Camargo Júnior (2024). 
+      <em>
+        <a href="https://sol.sbc.org.br/index.php/ssv/article/view/32621" target="_blank">
+          Assessing the Impact of Fog on Autonomous Vehicle Perception Systems
+        </a>.
+      </em> 
+      In I Workshop Latinoamericano de Dependabilidade e Segurança em Sistemas Veiculares.
+    </li>
+  </ul>
 
-    I hold a bachelor’s degree in computational physics and a master’s degree in computer engineering, both from <a href="https://www5.usp.br" target="_blank">USP (University of São Paulo)</a>.
-
-    <div class="links-section">
-      <p>You can:</p>
-      <ul>
-        <li>Follow me on <a href="https://www.linkedin.com/in/alexandrerays/" target="_blank">Linkedin</a>.</li>
-        <!-- <li>Follow me on <a href="https://www.instagram.com/alexandrerays/" target="_blank">Instagram</a>.</li> -->
-        <li>Follow me on <a href="https://github.com/alexandrerays" target="_blank">Github</a>.</li>  
-        <li>Read my writing on <a href="https://medium.com/@alexandrerays" target="_blank">Medium</a>.</li>
-        <li>View a list of <a href="projects.html">projects I'm involved with</a>.</li>
-      </ul>
-      <p>Thank you!</p>
-    </div>
 
     <footer>
       <p>© <span id="year"></span> Alexandre Ray</p>

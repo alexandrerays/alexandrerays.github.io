@@ -1,3 +1,0 @@
-User-agent: *
-
-Sitemap: https://alexandrerays.github.io/sitemap.xml
